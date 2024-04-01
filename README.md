@@ -14,7 +14,7 @@ In this project: Create a data model and Power BI report for Seven Sages Tea Com
 8. Create a Report.
 
 ## Final Report :
-###The Data Model :
+### The Data Model :
 ![image](https://github.com/Marah-At/Seven-Sages-Tea-Company-SSTC-Report/assets/121014215/cd0adcb7-e76c-4668-8350-1ef5d9bdf73b)
 
 
